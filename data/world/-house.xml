@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Bank Large House" houseid="1" entryx="3362" entryy="2023" entryz="7" rent="6500" townid="10" size="51" />
+	<house name="Depot Shop 5" houseid="3" entryx="1571" entryy="2280" entryz="6" rent="2500" townid="1" size="20" />
+	<house name="Depot Shop 4" houseid="4" entryx="1571" entryy="2286" entryz="6" rent="2500" townid="1" size="20" />
+	<house name="Depot Shop 6" houseid="5" entryx="1572" entryy="2280" entryz="6" rent="2500" townid="1" size="15" />
+	<house name="Depot Shop 7" houseid="6" entryx="1572" entryy="2286" entryz="6" rent="2500" townid="1" size="15" />
+	<house name="Fame Town 2" houseid="7" entryx="1614" entryy="2286" entryz="7" rent="5000" townid="1" size="23" />
+	<house name="Fame Town 1" houseid="8" entryx="1614" entryy="2292" entryz="7" rent="5000" townid="1" size="23" />
+	<house name="Fame Town 8" houseid="9" entryx="1620" entryy="2285" entryz="7" rent="1500" townid="1" size="11" />
+	<house name="Fame Town 9" houseid="10" entryx="1623" entryy="2285" entryz="7" rent="1500" townid="1" size="11" />
+	<house name="Fame Town 6" houseid="11" entryx="1620" entryy="2287" entryz="7" rent="1500" townid="1" size="11" />
+	<house name="Fame Town 7" houseid="12" entryx="1623" entryy="2287" entryz="7" rent="1500" townid="1" size="11" />
+	<house name="Fame Town 11" houseid="13" entryx="1620" entryy="2285" entryz="6" rent="1500" townid="1" size="13" />
+	<house name="Fame Town 12" houseid="14" entryx="1623" entryy="2285" entryz="6" rent="1500" townid="1" size="13" />
+	<house name="Fame Town 5" houseid="15" entryx="1620" entryy="2287" entryz="6" rent="1500" townid="1" size="13" />
+	<house name="Fame Town 10" houseid="16" entryx="1623" entryy="2287" entryz="6" rent="1500" townid="1" size="13" />
+	<house name="Fame Town 4" houseid="17" entryx="1614" entryy="2286" entryz="6" rent="5000" townid="1" size="24" />
+	<house name="Fame Town 3" houseid="18" entryx="1614" entryy="2292" entryz="6" rent="5000" townid="1" size="25" />
+	<house name="East Entrance Flat 1" houseid="19" entryx="1621" entryy="2302" entryz="7" rent="2500" townid="1" size="10" />
+	<house name="East Entrance Flat 2" houseid="20" entryx="1630" entryy="2302" entryz="7" rent="2500" townid="1" size="10" />
+	<house name="East Entrance Flat 3" houseid="21" entryx="1621" entryy="2302" entryz="6" rent="1000" townid="1" size="12" />
+	<house name="East Entrance Flat 4" houseid="22" entryx="1630" entryy="2302" entryz="6" rent="1000" townid="1" size="12" />
+	<house name="Paradise Lake" houseid="23" entryx="1620" entryy="2306" entryz="7" rent="4000" townid="1" size="60" />
+	<house name="Champions Lake" houseid="24" entryx="1626" entryy="2306" entryz="7" rent="2000" townid="1" size="16" />
+	<house name="Depot Flag 1" houseid="25" entryx="1600" entryy="2303" entryz="7" rent="1500" townid="1" size="11" />
+	<house name="Depot Flag 2" houseid="26" entryx="1603" entryy="2303" entryz="7" rent="1500" townid="1" size="11" />
+	<house name="Depot Flat 3" houseid="27" entryx="1600" entryy="2313" entryz="7" rent="2200" townid="1" size="26" />
+	<house name="Depot Flat 4" houseid="28" entryx="1603" entryy="2313" entryz="7" rent="2200" townid="1" size="26" />
+	<house name="Depot Flat 5" houseid="29" entryx="1600" entryy="2303" entryz="6" rent="1000" townid="1" size="13" />
+	<house name="Depot Flat 6" houseid="30" entryx="1603" entryy="2303" entryz="6" rent="1000" townid="1" size="13" />
+	<house name="Palace Shop 2" houseid="31" entryx="1553" entryy="2305" entryz="7" rent="2000" townid="1" size="10" />
+	<house name="Palace Shop 3" houseid="32" entryx="1557" entryy="2305" entryz="7" rent="2000" townid="1" size="8" />
+	<house name="Beach Flats I" houseid="33" entryx="3368" entryy="1983" entryz="7" rent="1000" townid="10" size="15" />
+	<house name="Beach Flats II" houseid="34" entryx="3374" entryy="1983" entryz="7" rent="1000" townid="10" size="15" />
+	<house name="Beach Flats III" houseid="35" entryx="3368" entryy="1981" entryz="6" rent="800" townid="10" size="11" />
+	<house name="Beach Flats IV" houseid="36" entryx="3374" entryy="1981" entryz="6" rent="800" townid="10" size="11" />
+	<house name="Palace Flat 2" houseid="37" entryx="1544" entryy="2302" entryz="6" rent="400" townid="1" size="7" />
+	<house name="Palace Flat 1" houseid="38" entryx="1544" entryy="2298" entryz="6" rent="400" townid="1" size="7" />
+	<house name="Depot Large Flats I" houseid="51" entryx="3336" entryy="1993" entryz="7" rent="6700" townid="10" size="39" />
+	<house name="Depot Large Flats II" houseid="52" entryx="3339" entryy="1993" entryz="7" rent="6700" townid="10" size="39" />
+	<house name="Depot Large Flats IV" houseid="53" entryx="3336" entryy="1993" entryz="6" rent="4500" townid="10" size="39" />
+	<house name="Depot Large Flats III" houseid="54" entryx="3339" entryy="1993" entryz="6" rent="4500" townid="10" size="39" />
+	<house name="Depot Shop Flats I" houseid="56" entryx="3333" entryy="2008" entryz="7" rent="1000" townid="10" size="12" />
+	<house name="Depot Shop Flats II" houseid="57" entryx="3333" entryy="2013" entryz="7" rent="1000" townid="10" size="12" />
+	<house name="Depot Shop Flats III" houseid="58" entryx="3333" entryy="2018" entryz="7" rent="1000" townid="10" size="12" />
+	<house name="Depot House II" houseid="62" entryx="3341" entryy="2017" entryz="7" rent="5000" townid="10" size="27" />
+	<house name="Depot House III" houseid="63" entryx="3357" entryy="2017" entryz="7" rent="5000" townid="10" size="27" />
+	<house name="Palace Flat 3" houseid="64" entryx="1544" entryy="2304" entryz="6" rent="250" townid="1" size="4" />
+	<house name="Palace Flat 4" houseid="65" entryx="1554" entryy="2304" entryz="6" rent="250" townid="1" size="4" />
+	<house name="Palace Flat 5" houseid="66" entryx="1554" entryy="2306" entryz="6" rent="4500" townid="1" size="31" />
+	<house name="West Garden 1" houseid="67" entryx="1535" entryy="2287" entryz="7" rent="2000" townid="1" size="15" />
+	<house name="West Garden 3" houseid="68" entryx="1535" entryy="2283" entryz="7" rent="2000" townid="1" size="15" />
+	<house name="West Garden 2" houseid="69" entryx="1537" entryy="2287" entryz="7" rent="2000" townid="1" size="15" />
+	<house name="West Garden 4" houseid="70" entryx="1537" entryy="2283" entryz="7" rent="2000" townid="1" size="15" />
+	<house name="Garden Shop 2" houseid="71" entryx="1535" entryy="2277" entryz="7" rent="2500" townid="1" size="21" />
+	<house name="Garden Shop 1" houseid="72" entryx="1538" entryy="2277" entryz="7" rent="2500" townid="1" size="24" />
+	<house name="West Garden 7" houseid="73" entryx="1535" entryy="2287" entryz="6" rent="2000" townid="1" size="13" />
+	<house name="West Garden 5" houseid="74" entryx="1535" entryy="2283" entryz="6" rent="2000" townid="1" size="13" />
+	<house name="West Garden 6" houseid="75" entryx="1537" entryy="2287" entryz="6" rent="2000" townid="1" size="13" />
+	<house name="West Garden 8" houseid="76" entryx="1537" entryy="2283" entryz="6" rent="2000" townid="1" size="13" />
+	<house name="Garden Shop 4" houseid="77" entryx="1535" entryy="2277" entryz="6" rent="2500" townid="1" size="17" />
+	<house name="Garden Shop 3" houseid="78" entryx="1538" entryy="2277" entryz="6" rent="2500" townid="1" size="20" />
+	<house name="West Walls Flats I" houseid="79" entryx="3318" entryy="2003" entryz="7" rent="1200" townid="10" size="12" />
+	<house name="West Walls Flats II" houseid="80" entryx="3318" entryy="2010" entryz="7" rent="1200" townid="10" size="12" />
+	<house name="West Walls Flats III" houseid="81" entryx="3318" entryy="2017" entryz="7" rent="1200" townid="10" size="12" />
+	<house name="Depot Shop 1" houseid="86" entryx="1571" entryy="2292" entryz="7" rent="2500" townid="1" size="14" />
+	<house name="Depot Shop 2" houseid="87" entryx="1571" entryy="2286" entryz="7" rent="2500" townid="1" size="18" />
+	<house name="Depot Shop 3" houseid="88" entryx="1571" entryy="2280" entryz="7" rent="2500" townid="1" size="18" />
+	<house name="Elite Champion 3" houseid="89" entryx="1576" entryy="2270" entryz="7" rent="9000" townid="1" size="48" />
+	<house name="High Garden Shop 1" houseid="90" entryx="1542" entryy="2257" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="High Garden Shop 2" houseid="91" entryx="1547" entryy="2257" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="High Garden 1" houseid="92" entryx="1541" entryy="2261" entryz="7" rent="8000" townid="1" size="66" />
+	<house name="High Garden 2" houseid="93" entryx="1535" entryy="2260" entryz="7" rent="8000" townid="1" size="59" />
+	<house name="Elite Champion 4" houseid="94" entryx="1562" entryy="2263" entryz="7" rent="2500" townid="1" size="37" />
+	<house name="Elite Champion 1" houseid="95" entryx="1584" entryy="2262" entryz="7" rent="15000" townid="1" size="106" />
+	<house name="Elite Champion 2" houseid="96" entryx="1594" entryy="2262" entryz="7" rent="15000" townid="1" size="104" />
+	<house name="Quendor Guild Hall" houseid="97" entryx="1605" entryy="2262" entryz="7" rent="25000" townid="1" size="170" />
+	<house name="Depot Shop" houseid="98" entryx="1611" entryy="2266" entryz="7" rent="8000" townid="1" size="63" />
+	<house name="Wall Flat 1" houseid="99" entryx="1616" entryy="2256" entryz="7" rent="1500" townid="1" size="16" />
+	<house name="Wall Flat 2" houseid="100" entryx="1622" entryy="2257" entryz="7" rent="1500" townid="1" size="21" />
+	<house name="Wall Flat 3" houseid="101" entryx="1625" entryy="2257" entryz="7" rent="1500" townid="1" size="18" />
+	<house name="Wall Flat 4" houseid="102" entryx="1625" entryy="2260" entryz="7" rent="1500" townid="1" size="18" />
+	<house name="Wall Flat 5" houseid="103" entryx="1625" entryy="2263" entryz="7" rent="1500" townid="1" size="10" />
+	<house name="Wall Flat 6" houseid="104" entryx="1622" entryy="2263" entryz="7" rent="1500" townid="1" size="15" />
+	<house name="Wall Flat 7" houseid="105" entryx="1616" entryy="2256" entryz="6" rent="1500" townid="1" size="16" />
+	<house name="Wall Flat 8" houseid="106" entryx="1622" entryy="2257" entryz="6" rent="1500" townid="1" size="21" />
+	<house name="Wall Flat 9" houseid="107" entryx="1625" entryy="2257" entryz="6" rent="1500" townid="1" size="18" />
+	<house name="Wall Flat 10" houseid="108" entryx="1625" entryy="2260" entryz="6" rent="1500" townid="1" size="18" />
+	<house name="Wall Flat 11" houseid="109" entryx="1625" entryy="2263" entryz="6" rent="1500" townid="1" size="10" />
+	<house name="Wall Flat 12" houseid="110" entryx="1622" entryy="2263" entryz="6" rent="1500" townid="1" size="15" />
+	<house name="Wall Flat 13" houseid="111" entryx="1616" entryy="2256" entryz="5" rent="1500" townid="1" size="18" />
+	<house name="Wall Flat 14" houseid="112" entryx="1622" entryy="2257" entryz="5" rent="1500" townid="1" size="23" />
+	<house name="Wall Flat 15" houseid="113" entryx="1625" entryy="2257" entryz="5" rent="1500" townid="1" size="16" />
+	<house name="Wall Flat 16" houseid="114" entryx="1625" entryy="2260" entryz="5" rent="1500" townid="1" size="18" />
+	<house name="Wall Flat 17" houseid="115" entryx="1625" entryy="2263" entryz="5" rent="1500" townid="1" size="10" />
+	<house name="Wall Flat 18" houseid="116" entryx="1622" entryy="2263" entryz="5" rent="1500" townid="1" size="15" />
+	<house name="High Garden Flat 1" houseid="117" entryx="1552" entryy="2270" entryz="7" rent="2000" townid="1" size="16" />
+	<house name="High Garden Flat 2" houseid="118" entryx="1552" entryy="2273" entryz="7" rent="2000" townid="1" size="16" />
+	<house name="High Garden Flat 3" houseid="119" entryx="1552" entryy="2270" entryz="6" rent="2000" townid="1" size="14" />
+	<house name="High Garden Flat 4" houseid="120" entryx="1552" entryy="2273" entryz="6" rent="2000" townid="1" size="14" />
+	<house name="West Walls House I" houseid="680" entryx="0" entryy="0" entryz="0" rent="4000" townid="0" size="39" />
+	<house name="South Walls House I" houseid="681" entryx="0" entryy="0" entryz="0" rent="600" townid="0" size="9" />
+	<house name="South Walls House III" houseid="682" entryx="0" entryy="0" entryz="0" rent="600" townid="0" size="9" />
+	<house name="South Walls House II" houseid="683" entryx="0" entryy="0" entryz="0" rent="600" townid="0" size="9" />
+	<house name="Depot House I" houseid="684" entryx="3337" entryy="2003" entryz="7" rent="6000" townid="10" size="26" />
+	<house name="Guild Hall" houseid="685" entryx="0" entryy="0" entryz="0" rent="20000" guildhall="true" townid="10" size="139" />
+	<house name="Depot Shop Flats IV" houseid="686" entryx="3333" entryy="2008" entryz="6" rent="800" townid="10" size="12" />
+	<house name="Depot Shop Flats V" houseid="687" entryx="3333" entryy="2013" entryz="6" rent="800" townid="10" size="12" />
+	<house name="Depot Shop Flats VI" houseid="688" entryx="3333" entryy="2018" entryz="6" rent="800" townid="10" size="12" />
+	<house name="Weapon Shop Flat" houseid="689" entryx="3366" entryy="1990" entryz="6" rent="4000" townid="10" size="40" />
+	<house name="West Walls Flats IV" houseid="690" entryx="3320" entryy="2003" entryz="6" rent="1200" townid="10" size="17" />
+	<house name="West Walls Flats V" houseid="691" entryx="3320" entryy="2010" entryz="6" rent="1200" townid="10" size="16" />
+	<house name="West Walls Flats VI" houseid="692" entryx="3320" entryy="2017" entryz="6" rent="1200" townid="10" size="19" />
+	<house name="Beach Mini Flats I" houseid="693" entryx="3382" entryy="1976" entryz="7" rent="250" townid="10" size="1" />
+	<house name="Beach Mini Flats II" houseid="694" entryx="3382" entryy="1981" entryz="7" rent="250" townid="10" size="1" />
+	<house name="Temple House" houseid="695" entryx="1608" entryy="2322" entryz="7" rent="2000" townid="1" size="18" />
+	<house name="Palace Flat 6" houseid="696" entryx="1544" entryy="2304" entryz="7" rent="4000" townid="1" size="23" />
+	<house name="South Street House I" houseid="697" entryx="1251" entryy="2236" entryz="7" rent="1500" townid="6" size="12" />
+	<house name="South Street House II" houseid="698" entryx="1251" entryy="2242" entryz="7" rent="1500" townid="6" size="16" />
+	<house name="South Street House III" houseid="699" entryx="1251" entryy="2248" entryz="7" rent="2000" townid="6" size="16" />
+	<house name="South Street House IV" houseid="700" entryx="1249" entryy="2244" entryz="7" rent="3000" townid="6" size="28" />
+	<house name="Upper Depot Flat I" houseid="701" entryx="1254" entryy="2217" entryz="7" rent="2000" townid="6" size="16" />
+	<house name="Upper Depot  Flat II" houseid="702" entryx="1260" entryy="2217" entryz="7" rent="4000" townid="6" size="32" />
+	<house name="Upper Depot Flat III" houseid="703" entryx="1266" entryy="2217" entryz="7" rent="2000" townid="6" size="16" />
+	<house name="Upper Depot Flat IV" houseid="704" entryx="1250" entryy="2213" entryz="6" rent="2000" townid="6" size="16" />
+	<house name="Upper Depot Flat V" houseid="705" entryx="1269" entryy="2213" entryz="6" rent="2000" townid="6" size="16" />
+	<house name="Shop Flat" houseid="706" entryx="1243" entryy="2228" entryz="7" rent="300" townid="6" size="3" />
+	<house name="West Flats I" houseid="707" entryx="1233" entryy="2229" entryz="7" rent="3000" townid="6" size="32" />
+	<house name="West Flats II" houseid="708" entryx="1233" entryy="2220" entryz="7" rent="3000" townid="6" size="32" />
+	<house name="West Flats III" houseid="709" entryx="1233" entryy="2213" entryz="7" rent="2000" townid="6" size="20" />
+	<house name="West Flats IV" houseid="710" entryx="1221" entryy="2216" entryz="7" rent="1500" townid="6" size="18" />
+	<house name="West Flats V" houseid="711" entryx="1221" entryy="2222" entryz="7" rent="1500" townid="6" size="16" />
+	<house name="West Flats VI" houseid="712" entryx="1221" entryy="2229" entryz="7" rent="1500" townid="6" size="20" />
+</houses>
